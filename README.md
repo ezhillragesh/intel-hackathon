@@ -1,7 +1,7 @@
 # Transforming Education with AI: Empowering Learners with Intel's Advanced Toolkits
 
 In the era of rapid technological advancements, the integration of artificial intelligence (AI) has emerged as a transformative force across various industries. At the recent Intel Hackathon, our team embarked on a mission to harness the power of AI to facilitate open innovation in education. Our project aimed to create an educational platform that not only enhances learning experiences but also fosters collaboration and innovation among students.
-
+[View the Figma Design](https://www.figma.com/file/gC1abzMtrS5Idw73yF2I7x/BOLT?type=design&node-id=0%3A1&mode=design&t=oDubaQa00gn1R2Bk-1)
 ## Introduction to the Project:
 
 The challenge posed by Intel sparked our curiosity and ignited our passion for leveraging AI to revolutionize education. While the traditional focus of open innovation revolves around matching organizations with potential partners, we recognized the immense potential of AI in transforming the educational landscape. Thus, we embarked on a journey to develop a cutting-edge educational platform that harnesses AI capabilities to enhance learning outcomes.
