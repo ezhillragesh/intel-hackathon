@@ -1,0 +1,31 @@
+{
+    "languages": {
+      "Cpp": {
+        "STL": "https://www.youtube.com/embed/m4au_rXy6rc?si=Y6k51VAvzxpIMFKJ",
+        "iterators": "https://www.youtube.com/embed/SgcHcbQ0RCQ?si=tUnO66yiwN8e2NuV",
+        "Templates":"https://www.youtube.com/embed/I-hZkUa9mIs?si=qUuqerOk_9UWD_WJ",
+        "Pointers":"https://www.youtube.com/embed/DTxHyVn0ODg?si=vUs8d1ToBXm2997X",
+        "OOPs":"https://www.youtube.com/embed/wN0x9eZLix4?si=udatY1wICV7kqb57",
+        "File Handling":"https://www.youtube.com/embed/TF2-F2duY6c?si=b38YZwPV8Omz6IBW",
+        "Exception Handling":"https://www.youtube.com/embed/kjEhqgmEiWY?si=5CmwwDlcvcQB_PTO",
+        "Arrays":"https://www.youtube.com/embed/ENDaJi08jCU?si=0On8ZkuMEB3xv3jc"
+
+
+
+      },
+
+      "Python": {
+        "Functions": "https://www.youtube.com/embed/u-OmVr_fT4s?si=_e1rgdIFEnt0lwNV",
+        "Data types": "https://www.youtube.com/embed/ppsCxnNm-JI?si=xDGwaxz39NX98iEl",
+        "Loops": "https://www.youtube.com/embed/6iF8Xb7Z3wQ?si=0mU6ZwJ2YmGdGing",
+        "File Handling": "https://www.youtube.com/embed/Uh2ebFW8OYM?si=erpJOilfSmB9MVIa",
+        "Exception Handling": "https://www.youtube.com/embed/NIWwJbo-9_8?si=DXmJBzNILjGD5zsb",
+        "OOPs": "https://www.youtube.com/embed/Ej_02ICOIgs?si=IsBEVO4y94Tuc--z",
+        "Modules": "https://www.youtube.com/embed/1oFneicTaII?si=QUNcibweks3qOOqC",
+        "Regular Expressions": "https://www.youtube.com/embed/sHw5hLYFaIw?si=YEezy_U8Wbol4-EO",
+        "Collections": "https://www.youtube.com/embed/UdcPhnNjSEw?si=z9F4lzIFVPkjY5YP"
+
+
+      }
+    }
+  }
